@@ -6,3 +6,4 @@ FROM PROD;
 
 SELECT prod_id, prod_name
 FROM prod;
+
